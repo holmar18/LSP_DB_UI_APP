@@ -1,0 +1,21 @@
+Simple database with dynamic search
+
+Description:
+I made this for a person i know that needed some database and a search tool to store information for faster lookup and
+transition from paper folders. This project only needed two users so there was no need for all the 
+features that is needed for a signup.
+
+Project difficulties:
+Rather simple, no major problems.
+
+Technology used
+- React
+- NodeJS
+- ExpressJS
+- HTML
+- CSS
+- JavaScript
+
+Notable features
+- Login
+- Dynamic Search

@@ -1,0 +1,9 @@
+body {
+    height: 100vh;
+    background-image: linear-gradient(to right top, #6494dc, #5f98df, #599ce2, #53a0e5, #4da4e7);
+}
+
+
+.main {
+    padding-top: 5%;
+}

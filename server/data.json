@@ -1,0 +1,52 @@
+{
+  "mix": [
+    {
+      "id": 0,
+      "date": "2020-08-11T04:00:37.511Z",
+      "name": "pensilin",
+      "description": "2 bollar af hveiti 1 tsk lyftiduft"
+    },
+    {
+      "id": 1,
+      "date": "2020-08-11T04:00:37.511Z",
+      "name": "Sigurpillur",
+      "description": "3 bollar af hveiti 2 tsk lyftiduft"
+    },
+    {
+      "id": 2,
+      "date": "2020-08-13T02:59:30.550Z",
+      "name": "Hundasúrur33",
+      "description": "3 bollar af hveiti 3 tsk lyftiduft"
+    },
+    {
+      "id": 3,
+      "date": "2020-08-11T04:00:37.511Z",
+      "name": "ostur",
+      "description": "okei"
+    },
+    {
+      "id": 4,
+      "date": "2020-08-11T04:00:37.511Z",
+      "name": "yu",
+      "description": "rty"
+    },
+    {
+      "id": 5,
+      "date": "2020-08-11T04:00:37.511Z",
+      "name": "Okkar",
+      "description": "Það eina sem skiptir máli\ner ostakaka og\nhnetusmjör"
+    },
+    {
+      "id": 6,
+      "date": "2020-08-11T04:00:37.511Z",
+      "name": "asfasdfa",
+      "description": "asdfasdfasdf"
+    },
+    {
+      "id": 7,
+      "date": "2020-08-13T01:25:51.448Z",
+      "name": "holmar",
+      "description": "holmar karl"
+    }
+  ]
+}
